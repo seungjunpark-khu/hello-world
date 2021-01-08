@@ -1,4 +1,4 @@
 # hello-world
 
-Hello, people.
+Hello, world!
 
